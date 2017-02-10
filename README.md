@@ -1,5 +1,7 @@
 My first Hello World JNI in Windows.</br>
+
 NOTE: Used DevC++ migwin for gcc compiler</br>
+
 Following commands to be run from cmd prompt </br>
 javac HelloJNI.java </br>
 javah HelloJNI</br>

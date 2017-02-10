@@ -1,4 +1,4 @@
-My first Hello World JNI in Windows.</br>
+<b>My first Hello World JNI in Windows.</b>
 
 NOTE: Used DevC++ migwin for gcc compiler</br>
 
